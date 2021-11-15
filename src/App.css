@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.name {
+  text-align: center;
+  color: blue;
+}
+.adress {
+  color: aqua;
+}
+.photo {
+  width: 350px;
+}
